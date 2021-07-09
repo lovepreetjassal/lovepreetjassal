@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lovepreet
+- 👀 I’m interested in Linux | JS | Java | PHP | SQL | NodeJS | Shell Scripting
+- 🌱 I’m currently learning JS | TS
